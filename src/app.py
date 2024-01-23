@@ -77,11 +77,11 @@ if st.button('Submit'):
         st.write(prediction)
         
         if prediction == 0:
-            st.text("According to our analysis, your risk of having coronary heart disease (CHD)\n in the next 10 years seems to be low."
+            st.text("According to our analysis, your risk of having coronary heart disease (CHD)\nin the next 10 years seems to be low."
                     "\nHowever, maintaining a healthy lifestyle is essential to prevent health problems "
                     "\nin the future. Keep it up!")
             
         elif prediction == 1:
-            st.text("According to our analysis, it seems that you have a high risk of suffering\n from coronary heart disease (CHD) in the next 10 years."
+            st.text("According to our analysis, it seems that you have a high risk of suffering\nfrom coronary heart disease (CHD) in the next 10 years."
                     "\nIt is important that you take care of your health. "
                     "\nRemember, prevention is the best medicine.")
