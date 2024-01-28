@@ -2,4 +2,5 @@ I present my integrated machine learning project that predicts the probability o
 
 Link to [Streamlit](https://heartdiseaseml-jwirahfnikw3jxbuckkhrp.streamlit.app/) so you can see the website
 
-![heart-disease-image](https://github.com/ElenaRacero3/Heart_disease_ML/assets/146923466/052b1072-fde0-4ef2-b85c-636abdf32148)
+<img src="https://github.com/ElenaRacero3/Heart_disease_ML/assets/146923466/052b1072-fde0-4ef2-b85c-636abdf32148" width="300">
+
