@@ -1,5 +1,5 @@
-Os presento mi proyecto de machine learning integrado que predice la probabilidad de que un paciente tenga un riesgo a 10 años de cardiopatía coronaria.
+I present my integrated machine learning project that predicts the probability of a patient having a 10-year risk of coronary heart disease.
 
-Enlace a [Streamlit](https://heartdiseaseml-jwirahfnikw3jxbuckkhrp.streamlit.app/) para que podaís ver la web
+Link to [Streamlit](https://heartdiseaseml-jwirahfnikw3jxbuckkhrp.streamlit.app/) so you can see the website
 
-![heart-disease](https://github.com/ElenaRacero3/Heart_disease_ML/assets/146923466/0c9f2371-1e51-42c2-b7eb-6f60a34193fa)
+![heart-disease-image](https://github.com/ElenaRacero3/Heart_disease_ML/assets/146923466/052b1072-fde0-4ef2-b85c-636abdf32148)
